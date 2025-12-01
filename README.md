@@ -1,7 +1,7 @@
 ## Hi there
 * My name is Callum Neal
 * I'm a Cyber Engineering Major here at Louisiana Tech
-* This is where most of my Computer Science related Projects are Kept
+* This is where most of my Computer Science related Projects are kept
 
 <!--
 **CBNeal/CBNeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
