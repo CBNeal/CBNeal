@@ -8,6 +8,8 @@
 </a>
 
 <a href="https://www.linkedin.com/in/callum-neal-169771405/">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>          
 
 ## Tools I have Used and Learned 
 <p align="center">
