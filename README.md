@@ -32,5 +32,5 @@
    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gqdgwx4yalkbtmwsj5hll5rcgy&redirect=true">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gqdgwx4yalkbtmwsj5hll5rcgy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
     </a>
-
+  [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:1237195528949858434)
 </p>
