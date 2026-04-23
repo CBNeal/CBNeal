@@ -4,6 +4,7 @@
 * This is where most of my Computer Science related Projects are kept
 
 ## Where To Find Me
+<p align="center">
 <a href="https://www.instagram.com/callum.bneal/">
  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
@@ -11,6 +12,7 @@
 <a href="https://www.linkedin.com/in/callum-neal-169771405/">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>          
+</p>
 
 ## Tools I Have Used 
 <p align="center">
