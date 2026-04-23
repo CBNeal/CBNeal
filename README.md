@@ -1,7 +1,4 @@
-## Hi There!
-* My name is Callum Neal
-* I'm a Cyber Engineering Major here at Louisiana Tech
-* This is where most of my Computer Science related Projects are kept
+### Hi There!
 
 ## Where To Find Me
 <p align="center">
