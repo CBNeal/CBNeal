@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45"/>
 </p>
 
-## What I'm Listening To
+## What I'm Up To
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
     
@@ -38,6 +38,3 @@
 
   </div>
 </p>
-## Some GitHub Accomplishments
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CBNeal&show_icons=true&theme=dark).
-
