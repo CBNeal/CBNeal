@@ -37,7 +37,6 @@
     flex-wrap: wrap;
   ">
 
-    <!-- Spotify -->
    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gqdgwx4yalkbtmwsj5hll5rcgy&redirect=true">
       <div style="
         border-radius: 16px;
@@ -52,7 +51,6 @@
       </div>
     </a>
 
-    <!-- Discord -->
    <a href="https://discord.com/users/1237195528949858434">
       <div style="
         border-radius: 16px;
