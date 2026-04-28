@@ -13,6 +13,11 @@
 <a href="https://discord.com/users/1237195528949858434/">
   <img height="50" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
+
+<a href="mailto:CallumBNeal@gmail.com">
+ <img height="50" src="https://www.svgrepo.com/show/258700/email-mail.svg" />
+</a>
+
 </p>
 
 ## Tools I Have Used 
