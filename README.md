@@ -8,7 +8,11 @@
 
 <a href="https://www.linkedin.com/in/callum-neal-169771405/">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>          
+</a>      
+
+<a href="https://discord.com/users/1237195528949858434/">
+  <img height="50" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+</a>
 </p>
 
 ## Tools I Have Used 
